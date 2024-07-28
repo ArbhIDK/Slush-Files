@@ -1,15 +1,3 @@
-/* ==UserStyle==
-@name         Purple Sky - Roblox
-@namespace    USO Archive
-@author       BoopBop
-@description  This is the fixed version of the original, this has got the exact same code except now the background works.     All credits go to <a href="https://sdlsgraphics.wordpress.com/2018/07/17/steven-universe-backgrounds/">>sdlsgraphics<</a> for this nice artwork inspired by Steven universe and <a href="https://userstyles.org/users/748106">>Beca<</a> for the formatting.     This code was created by me, do give feedback for improvements in the comments. If you want more fixed roblox styles just click BoopBop at the top, or you can click DittoDino below for some mediocre youtube progressbars.
-@version      20230727.18.25
-@license      NONE
-@preprocessor uso
-==/UserStyle== */
-@-moz-document domain("roblox.com") {
-/*Messages, Friends and Inventory Page Code*/
-/*Messages*/
 #MessagesInbox *, .roblox-message-body *
    {
      background-color:#b68ff1!important;   
